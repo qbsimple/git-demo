@@ -1,0 +1,8 @@
+id: line
+name: line
+version: 1.0.0
+author: qb
+icon: app.png
+desc: Automatic find color line and track it
+files:
+  - function.py

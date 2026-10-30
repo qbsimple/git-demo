@@ -1,0 +1,8 @@
+id: qq
+name: '2'
+version: 1.0.1
+author: '5'
+icon: app.png
+desc: 95+
+files:
+  - function1.py

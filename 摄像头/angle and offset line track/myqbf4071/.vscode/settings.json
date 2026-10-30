@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "myitqb.h": "c"
+    },
+    "cmake.sourceDirectory": "C:/Users/a2056/Desktop/new bike/myqbf407/Drivers/CMSIS/DSP/Source/FastMathFunctions"
+}

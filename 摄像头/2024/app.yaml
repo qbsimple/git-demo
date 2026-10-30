@@ -1,0 +1,8 @@
+id: find_pus
+name: '12'
+version: 1.0.0
+author: '11'
+icon: app.png
+desc: '11'
+files:
+  - yolo_6_串口按键选形状46fps.py
